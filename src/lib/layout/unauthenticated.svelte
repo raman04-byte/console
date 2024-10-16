@@ -74,7 +74,7 @@
             <div class="u-flex u-stretch" />
 
             <div class="tag-line is-not-mobile">
-                <p>Build like a team of hundreds<span class="underscore">_</span></p>
+                <p>Royal Carribean Televolution`<span class="underscore">_</span></p>
             </div>
         {:else if variation === 'card'}
             <section
